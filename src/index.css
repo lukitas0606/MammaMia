@@ -1,0 +1,28 @@
+.Banner{
+    width: 96rem;
+    height: 25rem;
+    opacity: 0.9;
+    box-shadow: 0 0 10px 0 black;
+    margin-bottom: 25px;
+}
+Button{
+    margin: 10px !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cartas{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.card{
+    margin-left: 20px;
+}
+.small-button{
+    width: 100px;
+    margin-left: 730px !important;
+}
+ul{
+    list-style: none;
+}
+h2{
+    text-align: center;
+}
